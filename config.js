@@ -7,29 +7,29 @@
 //Dalam file _menunya.js
 
 //『 Utama 』 //
-global.owner = ['6282xxxxxx']  // isi jika perlu
-global.mods = ['6282xxxxxx']   // isi jika perlu
-global.prems = ['6282xxxxxx']  // isi jika perlu
+global.owner = ['628886529913']  // isi jika perlu
+global.mods = ['628886529913']   // isi jika perlu
+global.prems = ['628886529913']  // isi jika perlu
 
 //Isi dengan nama dan nomor lu//
 global.nameowner = '⫹⫺ OWNER' // isi nama kalian bebas
-global.numberowner = '6282xxxxxx' // isi nomor kalian dengan awalan seperti di contoh 
-global.dana = '6282xxxxxx' // isi dengan nomor dana yg kamu punya 
-global.pulsa = '6282xxxxxx' // isi dengan nomor pulsa hp kalian
-global.gopay = '6282xxxxxx'
+global.numberowner = '628886529913' // isi nomor kalian dengan awalan seperti di contoh 
+global.dana = '628886529913' // isi dengan nomor dana yg kamu punya 
+global.pulsa = '628886529913' // isi dengan nomor pulsa hp kalian
+global.gopay = '628886529913'
 
 //Name Bot & Grouplink//
-global.namebot = 'R-txzyMd'
+global.namebot = 'CazperBotz-V2'
 global.gc = 'https://chat.whatsapp.com/JEDQfzMGZan4HA98wtxsNL'
 global.web = 'https://myblogxyz.netlify.app' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 
 //Tanpilan wm Bot //
 global.lolkey = 'rey2k22' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '© R-TXZY-MD'
+global.wm = '© CazperBotz-V2'
 global.watermark = wm
-global.wm2 = '⫹⫺ R-TXZY-MD'
-global.wm3 = '© R-TXZY-MD'
+global.wm2 = '⫹⫺ CazperBotz-V2'
+global.wm3 = '© CazperBotz-V2'
 global.wm4 = '© 2021/2022'
 global.htki = '––––––『' 
 global.htka = '』––––––'

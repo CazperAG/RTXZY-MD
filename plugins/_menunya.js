@@ -196,9 +196,9 @@ await conn.send2ButtonImg(m.chat, await (await fetch('https://telegra.ph/fil
       quoted: ftroli,  
       contextInfo: { //forwardingScore: 99999, isForwarded: true,  
           externalAdReply: {  showAdAttribution: true, 
-              title: 'Bot Wahatsapp Multi Device',  
-              body: '© TioXd', 
-              description: 'Made With ❤️ TioXd', 
+              title: 'Bot Wahatsapp Multi Device Yang Ter-Nganu',  
+              body: '© CazperBotz-V2', 
+              description: 'Made With ❤️ Cazperagario', 
               mediaType: 2,  
             thumbnail: await (await fetch('https://telegra.ph/file/00faf159ce0349901eaf3.jpg')).buffer(), 
            mediaUrl: `https://www.facebook.com/tio.permana.50999` 

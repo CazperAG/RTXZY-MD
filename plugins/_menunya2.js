@@ -8,7 +8,7 @@
     let uptime = clockString(_uptime)
     let time = require('moment-timezone').tz('Asia/Jakarta').format('HH:mm:ss')
     let ar = ['list', 'menu']
-    let yo = `Hai @${m.sender.split('@')[0]} 👋`
+    let yo = `Ohayo @${m.sender.split('@')[0]} 👋`
     let tio = `*© CazperBotz-V2*`
     let liv = `CLICK HERE`
     const sections = [ {
@@ -28,7 +28,7 @@
   const listMessage = {
   text: tio,
   mentions: [m.sender],
-  footer: 'Jika menemukan bug,error atau kesulitan dalam penggunaan silahkan laporkan/tanyakan kepada owner.',
+  footer: 'Halo Saya CazperBotz-V2,Sialahkan Menikamati Fitur Saya Ya,Jika Menemukan Kesalahan/Bug Report Ke Owner,Thanks.',
   title: yo,
   buttonText: liv,
   sections
